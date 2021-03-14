@@ -8,4 +8,11 @@ This React Application is just a practice project that helped learning few thing
 * How styling works in JS and how we can do inline stylings
 * How props work and how we can ensure proptypes as well as default props
 * How forms work and states can help with form inputs
+* How json-server works and how backend can be connected with front-end for Adding/Deleting/Updating tasks
 
+## Install
+
+To install this app please use the following commands
+`npm i`
+`npm run server`
+`npm start`
