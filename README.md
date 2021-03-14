@@ -16,3 +16,5 @@ To install this app please use the following commands
 * `npm i`
 * `npm run server`
 * `npm start`
+
+Also to build the app please use `npm run build`
