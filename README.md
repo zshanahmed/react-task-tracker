@@ -7,3 +7,5 @@ This React Application is just a practice project that helped learning few thing
 * Use state to pass through components and do changes correspondingly
 * How styling works in JS and how we can do inline stylings
 * How props work and how we can ensure proptypes as well as default props
+* How forms work and states can help with form inputs
+
