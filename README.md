@@ -13,6 +13,6 @@ This React Application is just a practice project that helped learning few thing
 ## Install
 
 To install this app please use the following commands
-`npm i`
-`npm run server`
-`npm start`
+* `npm i`
+* `npm run server`
+* `npm start`
